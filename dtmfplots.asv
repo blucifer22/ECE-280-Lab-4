@@ -1,0 +1,10 @@
+%% This script plots the values of various DTMF key-presses on a subplot
+%% Plot 1
+subplot(3,1,1);
+x = linspace(0, 4400);
+y1 = dtmfdial('1', 8000);
+
+
+%% Plot 5
+
+%% Plot 
